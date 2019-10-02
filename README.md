@@ -8,14 +8,14 @@
 ________________________
 
 * Build:
-[!build-cmd](files/1-build.png)
+![build-cmd](files/1-build.png)
 
 * Run:
-[!run-cmd](files/2-run.png)
+![run-cmd](files/2-run.png)
 
 * Access:
-[!access-nb](files/3-browser.png)
+![access-nb](files/3-browser.png)
 
 * Notebook in action:
 Following this [simple tutorial](https://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb).
-[!nb-run](files/4-nb.png)
+![nb-run](files/4-nb.png)
