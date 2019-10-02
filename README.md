@@ -1,5 +1,3 @@
-#2019-fall-notebook-on-docker
-
 ### How to use jupyter notebook on Docker?
 * Download this Repository
 * Activate Docker
