@@ -3,7 +3,9 @@
 * Activate Docker
 * Build the image: `docker build -it image-name:version .`
 * Run the image: `docker run -it -p 8888:8888 image-name:version`
-* Open the browser: `ip-address:8888\?token=token-id`
+* Open the browser: `https://locallhost.com:8888/?token=token-id`
+* OR if you're using docker toolbox: `192.168.99.100:8888/?token=token-id`, 192.168.99.100 is __docker-machine default ip__
+
 
 ________________________
 
